@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <!--
 **caiomarcondes/caiomarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

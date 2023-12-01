@@ -1,4 +1,6 @@
-### Caio Marcondes 👋
+### Olá, me chamo Caio Marcondes 👋
+
+- Me chamo Caio, tenho 25 anos, nascido na capital de São Paulo, 
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />

@@ -1,6 +1,6 @@
 ### Caio Marcondes 👋
 
-- Olá, me chamo Caio, tenho 25 anos, nascido na capital de São Paulo, 
+- Olá, me chamo Caio, tenho 25 anos, nascido na capital de São Paulo, atualmente residindo em sorocaba, com foco em aprimorar meu conhecimento, venho estudando Analise e Desenvolmento de Sistemas na UNISO - Cidade Universitária, onde obtive ferramentas para desenvolvimento pessoal e computacional!
 
 ## Competências 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80" /> 

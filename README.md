@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomarcondes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiomarcondes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiomarcondes)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 

@@ -1,4 +1,4 @@
-
+<img src="https://i.imgur.com/o3hdSRl.png" width="300" height="300">
 <h1 align="center">Hi 👋, I'm Caio Marcondes</h1>
 <h3 align="center">A passionate frontend e backend developer from Brazil</h3>
 

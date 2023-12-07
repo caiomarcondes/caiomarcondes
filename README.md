@@ -10,6 +10,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" idth="80" height="80" />
          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=caiomarcondes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Contatos:

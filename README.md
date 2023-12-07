@@ -10,6 +10,7 @@
 <a href="https://instagram.com/caiopng" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:caiomarcondes100@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcondescaio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomarcondes&label=Profile%20views&color=0e75b6&style=flat" alt="caiomarcondes" /> </p>
 </div>
 
 ###
@@ -27,9 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomarcondes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomarcondes&label=Profile%20views&color=0e75b6&style=flat" alt="caiomarcondes" /> </p>
 
 
 

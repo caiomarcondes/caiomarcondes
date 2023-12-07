@@ -10,7 +10,7 @@
 <a href="https://instagram.com/caiopng" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:caiomarcondes100@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcondescaio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomarcondes&label=Profile%20views&color=0e75b6&style=flat" alt="caiomarcondes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=caiomarcondes&label=Profile%20views&color=0e75b6&style=flat" alt="caiomarcondes" /> </p>
 </div>
 
 ###

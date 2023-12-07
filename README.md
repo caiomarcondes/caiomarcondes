@@ -13,6 +13,8 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=caiomarcondes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomarcondes&label=Profile%20views&color=0e75b6&style=flat" alt="caiomarcondes" /> </p>
+
 ## Contatos:
 <center>
 <div>
@@ -22,23 +24,6 @@
 </div>
 </center>
 
-```http
-  GET /api/items
-```
-
-| Parâmetro   | Tipo       | Descrição                           |
-| :---------- | :--------- | :---------------------------------- |
-| `api_key` | `string` | **Obrigatório**. A chave da sua API |
-
-#### Retorna um item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parâmetro   | Tipo       | Descrição                                   |
-| :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer |
 
 #### add(num1, num2)
 

@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/caiomarcondes/caiomarcondes/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomarcondes&label=Profile%20views&color=0e75b6&style=flat" alt="caiomarcondes" /> </p>
 
 ## Contatos:

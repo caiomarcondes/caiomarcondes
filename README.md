@@ -25,5 +25,3 @@
 </center>
 
 
-#### add(num1, num2)
-

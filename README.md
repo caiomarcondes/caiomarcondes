@@ -11,8 +11,6 @@
           
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomarcondes&show_icons=true&locale=en&layout=compact" alt="caiomarcondes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiomarcondes&show_icons=true&locale=en" alt="caiomarcondes" /></p>
-
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=caiomarcondes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 

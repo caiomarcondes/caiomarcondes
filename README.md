@@ -14,7 +14,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=caiomarcondes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomarcondes&show_icons=true&locale=en&layout=compact=&theme=dark#gh-dark-mode-only" alt="caiomarcondes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomarcondes&theme=dark#gh-dark-mode-only&show_icons=true&locale=en&layout=compact=" alt="caiomarcondes" /></p>
 
 ## Contatos:
 <center>

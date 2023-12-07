@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <img src="https://i.imgur.com/o3hdSRl.png" width="300" height="300">
 </div>
 <h1 align="center">Hi 👋, I'm Caio Marcondes</h1>

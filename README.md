@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/marcondescaio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+###
 
 - Olá, me chamo Caio, tenho 25 anos, nascido na capital de São Paulo, atualmente residindo em sorocaba, com foco em aprimorar meu conhecimento, venho estudando Analise e Desenvolmento de Sistemas na UNISO - Cidade Universitária, onde obtive ferramentas para desenvolvimento pessoal e computacional!
 

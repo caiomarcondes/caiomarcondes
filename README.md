@@ -3,6 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Caio Marcondes</h1>
 <h3 align="center">A passionate frontend e backend developer from Brazil</h3>
+
+###
+
 <div align="center">
 <a href="https://instagram.com/caiopng" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:caiomarcondes100@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/o3hdSRl.png" width="250" height="250">
 </div>
-<h1 align="center">Hi 👋, I'm Caio Marcondes</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=572E2E00&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Caio+Marcondes)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend e backend developer from Brazil</h3>
 
 ###

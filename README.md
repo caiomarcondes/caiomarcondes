@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/o3hdSRl.png" width="250" height="250">
 </div>
-<center></center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7F7F7&background=572E2E00&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Caio+Marcondes" alt="Typing SVG" /></a></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7F7F7&background=572E2E00&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Caio+Marcondes" alt="Typing SVG" /></a></center>
 <h3 align="center">A passionate frontend e backend developer from Brazil</h3>
 
 ###

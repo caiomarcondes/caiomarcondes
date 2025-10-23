@@ -16,12 +16,10 @@
 
 - Olá, me chamo Caio, tenho 25 anos, nascido na capital de São Paulo, atualmente residindo em sorocaba, com foco em aprimorar meu conhecimento, venho estudando Analise e Desenvolmento de Sistemas na UNISO - Cidade Universitária, onde obtive ferramentas para desenvolvimento pessoal e computacional!
 
-## Competências 
-
-## Cloud
+## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcloud" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,grafana,html,css,js,bootstrap,mysql,nginx,flutter" />
   </a>
 </p>
 

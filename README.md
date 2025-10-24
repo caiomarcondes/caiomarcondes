@@ -33,7 +33,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que obtive con
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,aws,azure,docker,cloudflare,grafana,prometheus,ngnix)<br><br>
 
 ## ⚙️ Ferramentas:
-![My Skills](https://skillicons.dev/icons?i=git)<br><br>
+![My Skills](https://skillicons.dev/icons?i=git,vscode)<br><br>
 
 ## 🖥️ Adds:
 ![My Skills](https://skillicons.dev/icons?i=figma,discord)<br><br>

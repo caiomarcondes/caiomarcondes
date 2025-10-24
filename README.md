@@ -21,20 +21,22 @@
 Aqui estão algumas das linguagens de programação e tecnologias que obtive contato:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js,)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,ngnix)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,dart)
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,sqlite)]<br><br>
+
+## 🖥️ Cloud:
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,aws,azure,docker,cloudflare,grafana,prometheus,ngnix)<br><br>
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,azure,docker,git)](https://skillicons.dev)<br><br>
+![My Skills](https://skillicons.dev/icons?i=git)<br><br>
 
 ## 🖥️ Adds:
-![My Skills](https://skillicons.dev/icons?i=figma,grafana,discord)<br><br>
-
+![My Skills](https://skillicons.dev/icons?i=figma,discord)<br><br>
 
 ## Status Github
 <div align="center">

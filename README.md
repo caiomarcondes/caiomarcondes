@@ -21,10 +21,10 @@
 Aqui estão algumas das linguagens de programação e tecnologias que obtive contato:
 
 ## 👨‍💻 Linguagens: 
-![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js)<br><br>
 
 ## 🧰 Frameworks: 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,dart)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,dart)<br><br>
 
 ## 🗄️ Bancos de Dados: 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,sqlite,supabase)<br><br>

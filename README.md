@@ -16,12 +16,24 @@
 
 - Olá, me chamo Caio, tenho 25 anos, nascido na capital de São Paulo, atualmente residindo em sorocaba, com foco em aprimorar meu conhecimento, venho estudando Analise e Desenvolmento de Sistemas na UNISO - Cidade Universitária, onde obtive ferramentas para desenvolvimento pessoal e computacional!
 
-## Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,grafana,html,css,js,bootstrap,mysql,nginx,flutter" />
-  </a>
-</p>
+## 🚀 Skills
+
+Aqui estão algumas das linguagens de programação e tecnologias que obtive contato:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js,)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,ngnix)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,azure,docker,git)](https://skillicons.dev)<br><br>
+
+## 🖥️ Adds:
+[![My Skills](https://skillicons.dev/icons?i=figma,grafana,discord)](https://skillicons.dev)<br><br>
 
 
 ## Status Github

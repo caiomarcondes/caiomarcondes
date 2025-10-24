@@ -33,7 +33,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que obtive con
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,azure,docker,git)](https://skillicons.dev)<br><br>
 
 ## 🖥️ Adds:
-[![My Skills](https://skillicons.dev/icons?i=figma,grafana,discord)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=figma,grafana,discord)]<br><br>
 
 
 ## Status Github

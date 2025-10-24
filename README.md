@@ -21,7 +21,7 @@
 Aqui estão algumas das linguagens de programação e tecnologias que obtive contato:
 
 ## 👨‍💻 Linguagens: 
-![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js,)
+![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,js)
 
 ## 🧰 Frameworks: 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,dart)

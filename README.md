@@ -38,7 +38,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que obtive con
 ![My Skills](https://skillicons.dev/icons?i=git,vscode)
 
 ## 🖥️ Adds:
-![My Skills](https://skillicons.dev/icons?i=figma,discord)
+![My Skills](https://skillicons.dev/icons?i=figma,discord,n8n)
 
 ## Status Github
 <div align="center">

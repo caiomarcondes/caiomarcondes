@@ -22,6 +22,9 @@
 
 Aqui estão algumas das linguagens de programação e tecnologias que obtive contato:
 
+## 🖥️ Cloud:
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,aws,azure,docker,cloudflare,grafana,prometheus,ngnix)<br><br>
+
 ## 👨‍💻 Linguagens: 
 ![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript)
 
@@ -30,9 +33,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que obtive con
 
 ## 🗄️ Bancos de Dados: 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,sqlite,supabase)
-
-## 🖥️ Cloud:
-![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,aws,azure,docker,cloudflare,grafana,prometheus,ngnix)<br><br>
 
 ## ⚙️ Ferramentas:
 ![My Skills](https://skillicons.dev/icons?i=git,vscode,kali)
